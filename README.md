@@ -1,5 +1,3 @@
-# render_prueba_streamlit
-
 # Proyecto de aplicacion web con Análisis de Anuncios de Venta de Vehículos 🚗
 
 Este proyecto es una aplicación web interactiva desarrollada con Streamlit como parte del Sprint 7 del bootcamp de TripleTen, enfocado en herramientas de desarrollo de software. Se utilizó un dataset de anuncios de venta de vehículos en EE.UU. para realizar un análisis exploratorio de datos.
